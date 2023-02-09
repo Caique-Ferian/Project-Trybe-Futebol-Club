@@ -25,7 +25,7 @@ npm install && npm run postinstall
 
   ```bash
   npm run compose:up
-```
+  ```
 
 Api rodando em http://localhost:3001/ e front rodando em http://localhost:3000/
 
